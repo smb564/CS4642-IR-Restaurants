@@ -1,0 +1,2 @@
+# Sri Lanka Restaurant Scraper
+This repo conatins the code that was used to scrape data about Sri Lankan restaurants and the extracted data. This was done as an assigment for the module CS4642 - Data Mining and Information Retrieval.
